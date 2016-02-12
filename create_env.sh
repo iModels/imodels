@@ -1,5 +1,5 @@
 source deactivate
-conda env remove -y -n foobar
-conda create -y -n foobar python=3.4
-source activate foobar
-rm -rf src
+conda env remove -y -n imodels
+conda create -y -n imodels python=3.4
+source activate imodels
+rm -r src
