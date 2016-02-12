@@ -1,9 +1,0 @@
-paramiko
-nglview
--e git+https://github.com/patrickfuller/imolecule.git#egg=imolecule
--e git+https://github.com/parmed/parmed.git#egg=parmed
--e git+https://github.com/mbuild/mbuild.git#egg=mbuild
--e git+https://github.com/foyer/foyer.git#egg=foyer
--e git+https://github.com/metamds/metamds.git#egg=metamds
--e git+https://github.com/simgen/simgen.git#egg=simgen
--e git+https://github.com/demos/demos.git#egg=demos
